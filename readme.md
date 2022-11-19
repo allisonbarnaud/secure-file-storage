@@ -1,4 +1,4 @@
-secure file storage app, save any files, password protected.
+# secure file storage app, save any files, password protected.
 
 technologies:
 - express
@@ -6,3 +6,5 @@ technologies:
 - javascript
 
 core learnings: routing, mongoDB
+
+note: to start/restart mongoDB local, **sudo systemctl restart mongod**
